@@ -1,0 +1,11 @@
+# Environment & Secret Keys
+.env
+*.local
+secrets.dart
+
+# Build & IDE Artifacts
+build/
+.dart_tool/
+.idea/
+.vscode/
+*.log
